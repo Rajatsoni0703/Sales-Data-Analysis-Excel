@@ -20,3 +20,6 @@ This project involves analyzing sales data using Microsoft Excel and creating an
 ## 📂 Files Included
 - Excel Dashboard File
 - Dataset
+
+
+![Dashboard](Screenshot%202026-03-29%20205416.png)
